@@ -17,3 +17,7 @@ Oiii! Eu sou a Bianca Simonato!
   <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   
 </div><br/>
+
+### 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BiancaSimonato4242&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaSimonato4242&layout=compact&theme=radical)
