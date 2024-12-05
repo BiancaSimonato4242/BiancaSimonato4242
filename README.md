@@ -31,6 +31,6 @@ Oiii! Eu sou a Bianca Simonato!
 
 ## 📬 Entre em Contato  
 - 📧 **bianca.simonato4242@gmail.com**  
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-chagas-fernandes-de-moraes-926018339))  
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/bianca-simonato-434494285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---  
