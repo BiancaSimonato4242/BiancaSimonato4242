@@ -21,3 +21,16 @@ Oiii! Eu sou a Bianca Simonato!
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BiancaSimonato4242&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaSimonato4242&layout=compact&theme=radical)
+
+## 🌐 Meu Projeto  
+
+- 🌍 **Acesse o Projeto:** [Easy Request](https://easyrequest.azurewebsites.net)  
+- 📂 **Repositório do GitHub:** [Repositório Easy Request](https://github.com/anafranciscatto/EASY-REQUEST)  
+
+---
+
+## 📬 Entre em Contato  
+- 📧 **bianca.simonato4242@gmail.com**  
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-chagas-fernandes-de-moraes-926018339))  
+
+---  
